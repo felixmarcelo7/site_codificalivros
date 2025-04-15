@@ -42,7 +42,7 @@ class App extends Component {
 
   async componentDidMount() {
     try {
-      const { data: livros } = await axios.get('/api/todosOsLivros.json');
+      const { data: livros } = await axios.get(`/site_livros_react/api/todosOsLivros.json`);
       this.setState({ livros });
     } catch (error) {
       console.log(error);

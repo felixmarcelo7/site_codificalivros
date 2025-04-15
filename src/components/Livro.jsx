@@ -6,7 +6,7 @@ const Livro = ({ livro }) => {
         <h2>{livro.titulo}</h2>
         <div className="livro">
           <img
-            src={'/imagens/capas/' + livro.id + '.jpg'}
+            src={`${import.meta.env.BASE_URL}imagens/capas/` + livro.id + '.jpg'}
             alt="Thumbnail da capa do livro ..."
           />
           <ul>
