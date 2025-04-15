@@ -1,10 +1,12 @@
-import { createRoot } from 'react-dom/client';
-import { BrowserRouter as Router } from "react-router";
+import React from 'react';
+import ReactDOM from 'react-dom/client';
+import { HashRouter } from 'react-router-dom';
 import './index.css'
 import App from './App.jsx'
 
-createRoot(document.getElementById('tudo')).render(
-  <Router basename="/site_livros_react">
+const root = ReactDOM.createRoot(document.getElementById('root'));
+root.render(
+  <HashRouter>
     <App />
-  </Router>,
-)
+  </HashRouter>
+);
