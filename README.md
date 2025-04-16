@@ -39,7 +39,7 @@ site_livros_react/
 
    ```bash
    git clone https://github.com/felixmarcelo7/site_livros_react.git
-  
+  ```
 
 2. Acesse o diretório do pojeto:
 
