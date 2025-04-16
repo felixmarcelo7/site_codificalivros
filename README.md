@@ -39,25 +39,25 @@ site_livros_react/
 
    ```bash
    git clone https://github.com/felixmarcelo7/site_livros_react.git
-  ```
+  
 
 2. Acesse o diretório do pojeto:
 
    ```bash
    cd site_livros_react
-  ```
+  
 
 3. Instale as dependncias:
 
    ```bash
    npm install
-  ```
+  
 
 4. Inicie o servidor de desenvolvmento:
 
    ```bash
    npm run dev
-  ```
+  
 
 5. Abra o navegador e acesse `http://localhost:5173` para visualizar o pojeto.
 
