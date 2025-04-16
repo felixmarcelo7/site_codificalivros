@@ -1,15 +1,15 @@
 # 📚 Site de Livros com React
-Um projeto de e-commerce simples para venda de livros, desenvolvido com React e ViteEste projeto tem como objetivo praticar conceitos de front-end modernos, incluindo roteamento, componentes reutilizáveis e integração com bibliotecas de estilo
+Um projeto de e-commerce simples para venda de livros, desenvolvido com React e Vite. Este projeto tem como objetivo praticar conceitos de front-end modernos, incluindo roteamento, componentes reutilizáveis e integração com bibliotecas de estilo
 
 ## 🔗 Acesse o site
-O projeto está disponível em: [sitelivroreact-test.netlify.app](https://sitelivroreact-test.netlify.ap)
+O projeto está disponível em: [sitelivroreact-test.netlify.app](https://sitelivroreact-test.netlify.ap)
 
 ## 🚀 Tecnologias utilizadas
-- [React](https://reactjs.or/)- [Vite](https://vitejs.de/)- [React Router](https://reactrouter.co/)- [Styled Components](https://styled-components.com/) ou CSS Modules (dependendo da implementaço)- [ESLint](https://eslint.org/) para padronização de códgo
+[React](https://reactjs.or/) - [Vite](https://vitejs.de/) - [React Router](https://reactrouter.co/) - [Styled Components](https://styled-components.com/) ou CSS Modules (dependendo da implementaço) - [ESLint](https://eslint.org/) para padronização de códgo
 
 ## 📁 Estrutura do projeo
 
-
+
 ```
 site_livros_react/
 ├── public/
@@ -24,7 +24,6 @@ site_livros_react/
 ├── vite.config.js
 └── README.md
 ``
-
 
 ## 🧑‍💻 Funcionalidads
 
@@ -36,46 +35,38 @@ site_livros_react/
 
 ## 🛠️ Como rodar o projeto localmene
 
-1. Clone o repostório:
+1. Clone o repostório:
 
    ```bash
    git clone https://github.com/felixmarcelo7/site_livros_react.git
   ```
-
 
-2. Acesse o diretório do pojeto:
+2. Acesse o diretório do pojeto:
 
    ```bash
    cd site_livros_react
   ```
-
 
-3. Instale as dependncias:
+3. Instale as dependncias:
 
    ```bash
    npm install
   ```
-
 
-4. Inicie o servidor de desenvolvmento:
+4. Inicie o servidor de desenvolvmento:
 
    ```bash
    npm run dev
   ```
-
 
-5. Abra o navegador e acesse `http://localhost:5173` para visualizar o pojeto.
+5. Abra o navegador e acesse `http://localhost:5173` para visualizar o pojeto.
 
 ## 📦 Scripts disponíeis
 
-- `npm run dev` – Inicia o servidor de desenvolvimento com hotrelad.
-- `npm run build` – Cria uma versão otimizada para poduão.
-- `npm run preview` – Visualiza a versão de produção loclmente.
+- `npm run dev` – Inicia o servidor de desenvolvimento com hotrelad.
+- `npm run build` – Cria uma versão otimizada para poduão.
+- `npm run preview` – Visualiza a versão de produção loclmente.
 
 ## 📄 icença
 
-Este projeto está licenciado sob a [MIT License](ICENSE).
-
----
-
-Se desejar, posso ajudá-lo a aprimorar ainda mais o README, adicionando capturas de tela, instruções de deploy no Netlify ou uma seção de contribuições. É só me avisar! 
+Este projeto está licenciado sob a [MIT License]. 
