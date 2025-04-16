@@ -34,12 +34,12 @@ site_livros_react/
 - Design responsivo para diferentes tamanhos d tela
 
 ## 🛠️ Como rodar o projeto localmene
-
+ ```
 1. Clone o repostório:
 
    ```bash
    git clone https://github.com/felixmarcelo7/site_livros_react.git
-  ```
+ 
 
 2. Acesse o diretório do pojeto:
 
