@@ -1,8 +1,8 @@
 # 📚 Site de Livros com React
-Um projeto de e-commerce simples para venda de livros, desenvolvido com React e Vite. Este projeto tem como objetivo praticar conceitos de front-end modernos, incluindo roteamento, componentes reutilizáveis e integração com bibliotecas de estilo
+Um projeto de e-commerce simples para venda de livros, desenvolvido com React e Vite. Este projeto tem como objetivo praticar conceitos de front-end modernos, incluindo roteamento, componentes reutilizáveis e integração com bibliotecas de estilo
 
 ## 🔗 Acesse o site
-O projeto está disponível em: [sitelivroreact-test.netlify.app](https://sitelivroreact-test.netlify.ap)
+O projeto está disponível em: [sitelivroreact-test.netlify.app](https://sitelivroreact-test.netlify.ap)
 
 ## 🚀 Tecnologias utilizadas
 [React](https://reactjs.or/) - [Vite](https://vitejs.de/) - [React Router](https://reactrouter.co/) - [Styled Components](https://styled-components.com/) ou CSS Modules (dependendo da implementaço) - [ESLint](https://eslint.org/) para padronização de códgo
